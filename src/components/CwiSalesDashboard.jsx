@@ -1503,7 +1503,7 @@ export default function CwiSalesDashboard({ users: _users, onNavigateToTeamDirec
                   <span style={{ fontWeight: 700, color: '#0f172a' }}>Order #CW-ORD-1049</span>
                   <span style={{ fontSize: '0.72rem', padding: '0.15rem 0.5rem', borderRadius: '4px', backgroundColor: '#eff6ff', color: '#1d4ed8', fontWeight: 700 }}>Container Loading</span>
                 </div>
-                <div style={{ fontSize: '0.85rem', fontWeight: 600, color: '#334155', marginTop: '2px' }}>2 x 40ft Containers (18mm Marine Gurjan Ply) $\rightarrow$ Jebel Ali Port, UAE</div>
+                <div style={{ fontSize: '0.85rem', fontWeight: 600, color: '#334155', marginTop: '2px' }}>2 x 40ft Containers (18mm Marine Gurjan Ply) → Jebel Ali Port, UAE</div>
                 <div style={{ fontSize: '0.75rem', color: '#64748b', marginTop: '2px' }}>Client: Gulf Timber LLC | Dispatch Point: Cochin Port Terminal</div>
               </div>
 
@@ -1512,7 +1512,7 @@ export default function CwiSalesDashboard({ users: _users, onNavigateToTeamDirec
                   <span style={{ fontWeight: 700, color: '#0f172a' }}>Order #CW-ORD-1052</span>
                   <span style={{ fontSize: '0.72rem', padding: '0.15rem 0.5rem', borderRadius: '4px', backgroundColor: '#ecfdf5', color: '#047857', fontWeight: 700 }}>En Route to Bangalore</span>
                 </div>
-                <div style={{ fontSize: '0.85rem', fontWeight: 600, color: '#334155', marginTop: '2px' }}>1,500 Sheets Calibrated Commercial Ply $\rightarrow$ Sobha City Depot</div>
+                <div style={{ fontSize: '0.85rem', fontWeight: 600, color: '#334155', marginTop: '2px' }}>1,500 Sheets Calibrated Commercial Ply → Sobha City Depot</div>
                 <div style={{ fontSize: '0.75rem', color: '#64748b', marginTop: '2px' }}>Transporter: Southern Express Fleet | E-Way Bill #9842-1102-4412</div>
               </div>
 
@@ -1521,7 +1521,7 @@ export default function CwiSalesDashboard({ users: _users, onNavigateToTeamDirec
                   <span style={{ fontWeight: 700, color: '#0f172a' }}>Order #CW-ORD-1055</span>
                   <span style={{ fontSize: '0.72rem', padding: '0.15rem 0.5rem', borderRadius: '4px', backgroundColor: '#fef3c7', color: '#92400e', fontWeight: 700 }}>Final Sanding & Quality Check</span>
                 </div>
-                <div style={{ fontSize: '0.85rem', fontWeight: 600, color: '#334155', marginTop: '2px' }}>800 Teak Veneered Solid Flush Doors $\rightarrow$ Calicut Resort Development</div>
+                <div style={{ fontSize: '0.85rem', fontWeight: 600, color: '#334155', marginTop: '2px' }}>800 Teak Veneered Solid Flush Doors → Calicut Resort Development</div>
                 <div style={{ fontSize: '0.75rem', color: '#64748b', marginTop: '2px' }}>Mill Facility: Perumbavoor Factory Unit 2</div>
               </div>
             </div>
